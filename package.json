@@ -1,0 +1,12 @@
+{
+  "name": "rn-launch",
+  "version": "0.0.4",
+  "main": "index.js",
+  "email": "514222057@qq.com",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "rxjs": "^5.5.6"
+  }
+}
